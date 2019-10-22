@@ -1,6 +1,6 @@
 # papers-with-pytorch
-EN: Paper collection with codes using Pytorch
-INA: Koleksi paper dengan kodingan menggunakan Pytorch.
+EN: Paper collection with codes using Pytorch \
+INA: Koleksi paper dengan kodingan menggunakan Pytorch.\
 I am collecting papers with pytorch codes that mainly I am interested in.
 
 | Title                           | Link                                                    | Category | Year|
