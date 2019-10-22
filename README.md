@@ -3,8 +3,8 @@ EN: Paper collection with codes using Pytorch
 INA: Koleksi paper dengan kodingan menggunakan Pytorch.
 I am collecting papers with pytorch codes that mainly I am interested in.
 
-| Title         | Link          | Topics | Year|
-| ------------- |:-------------:| -----:| ----:|
-| col 3 is      | right-aligned | $1600 | 2019 |
-| col 2 is      | centered      |   $12 | 2019 |
-| zebra stripes | are neat      |    $1 | 2019 |
+| Title                           | Link                                                    | Category | Year|
+| ------------------------------  |:-------------:                                          | -----:| ----:|
+| col 3 is                        | [I'm an inline-style link](https://www.google.com)      | DL, CV | 2019 |
+| col 2 is                        | [I'm an inline-style link](https://www.google.com)      | DL, CV | 2019 |
+| zebra stripes                   | [I'm an inline-style link](https://www.google.com)      | DL, CV | 2019 |
